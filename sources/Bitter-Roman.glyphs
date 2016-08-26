@@ -1,21 +1,10 @@
 {
-.appVersion = "916";
+.appVersion = "919";
 classes = (
 {
-code = "A O Scedilla uni0162 a n o scedilla uni0163 one two three four";
-name = aalt1;
-},
-{
-code = "ordfeminine ordmasculine Scommaaccent uni021A ordfeminine uni207F ordmasculine scommaaccent uni021B uni00B9 uni00B2 uni00B3 uni2074";
-name = aalt2;
-},
-{
-code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Aringacute Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gbreve Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Eng Ntilde O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent T Tbar Tcaron uni0162 uni021A U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent uni0410 uni0411 uni0412 uni0413 uni0403 uni0490 uni0414 uni0415 uni0400 uni0401 uni0416 uni0417 uni0418 uni0419 uni040D uni041A uni040C uni041B uni041C uni041D uni041E uni041F uni0420 uni0421 uni0422 uni0423 uni040E uni0424 uni0425 uni0427 uni0426 uni0428 uni0429 uni040F uni042C uni042A uni042B uni0409 uni040A uni0405 uni0404 uni042D uni0406 uni0407 uni0408 uni040B uni042E uni042F uni0402 uni04B0 uni0409.001 Gamma uni0394 Pi uni03A9";
-name = cpsp1;
-},
-{
-code = "zero one two three four five six seven eight nine";
-name = ordn1;
+automatic = 1;
+code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Aringacute Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gbreve Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Eng Ntilde O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent T Tbar Tcaron U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent Gamma Pi Tcedilla Tcommaaccent Eldescender-cy EnLeftHook-cy A-cy Be-cy Ve-cy Ge-cy Gje-cy Gheupturn-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Iishorttail-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Hardsign-cy Yeru-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Iu-cy Ia-cy Dje-cy Yat-cy Yusbig-cy Fita-cy Izhitsa-cy Ghestroke-cy Ghemiddlehook-cy Zhedescender-cy Zedescender-cy Kadescender-cy Kaverticalstroke-cy Kastroke-cy Kabashkir-cy Endescender-cy Pemiddlehook-cy Pedescender-cy Haabkhasian-cy Esdescender-cy Tedescender-cy Ustrait-cy Ustraitstroke-cy Hadescender-cy Chedescender-cy Cheverticalstroke-cy Shha-cy Shhadescender-cy Cheabkhasian-cy Chedescenderabkhasian-cy Palochka-cy Zhebreve-cy Kahook-cy Eltail-cy Enhook-cy Entail-cy Chekhakassian-cy Emtail-cy Abreve-cy Adieresis-cy Iebreve-cy Schwa-cy Schwadieresis-cy Zhedieresis-cy Zedieresis-cy Dzeabkhasian-cy Imacron-cy Idieresis-cy Odieresis-cy Obarred-cy Obarreddieresis-cy Edieresis-cy Umacron-cy Udieresis-cy Uhungarumlaut-cy Chedieresis-cy Gedescender-cy Yerudieresis-cy Gestrokehook-cy Hahook-cy Hastroke-cy Reversedze-cy Elhook-cy Qa-cy We-cy Semisoftsign-cy Ertick-cy Lje-cy.001 De-cy.loclBGR El-cy.loclBGR Ef-cy.loclBGR Ghestroke-cy.loclBSH Zedescender-cy.loclBSH Esdescender-cy.loclBSH Esdescender-cy.loclCHU Delta Omega";
+name = Uppercase;
 }
 );
 copyright = "Copyright (c) 2011-2015, Sol Matas (www.huertatipografica.com), with Reserved Font Name \"Bitter\". Copyright (c) Bitter project Authors";
@@ -651,43 +640,56 @@ uniF6D4
 );
 }
 );
-date = "2016-08-25 08:35:19 +0000";
+date = "2016-08-26 08:35:19 +0000";
 designer = "Sol Matas, and Bitter project Authors";
 designerURL = www.huertatipografica.com;
 familyName = Bitter;
 featurePrefixes = (
 {
-code = "languagesystem DFLT dflt;\012languagesystem latn dflt;\012languagesystem latn MOL ;\012languagesystem latn ROM ;\012languagesystem latn CAT ;";
-name = "FontLab OTPanel";
+automatic = 1;
+code = "languagesystem DFLT dflt;\012languagesystem latn dflt;\012languagesystem cyrl dflt;\012languagesystem latn ROM;\012languagesystem latn MOL;\012languagesystem latn CAT;\012languagesystem cyrl SRB;\012languagesystem cyrl BGR;\012";
+name = Languagesystems;
 }
 );
 features = (
 {
-code = "feature locl;\012  feature sups;\012";
+automatic = 1;
+code = "feature ccmp;\012feature locl;\012feature sups;\012feature frac;\012feature ordn;\012feature case;\012";
 name = aalt;
 },
 {
-code = "# Capital Spacing\012 # DEFAULT\012    pos @cpsp1 <5 0 10 0>;\012 script latn; # Latin\012    pos @cpsp1 <5 0 10 0>;\012 language MOL ; # Moldavian\012 language ROM ; # Romanian\012 language CAT ; # Catalan\012";
-name = cpsp;
+automatic = 1;
+code = "lookup ccmp_Other_1 {\012	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];\012	@CombiningNonTopAccents = [cedillacomb ogonekcomb strokeshortcomb];\012	sub [i j]' @CombiningTopAccents by [idotless jdotless];\012	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];\012	@Markscomb = [gravecomb acutecomb circumflexcomb caroncomb tildecomb];\012	@MarkscombCase = [gravecomb.case acutecomb.case circumflexcomb.case caroncomb.case tildecomb.case];\012	sub @Markscomb @Markscomb' by @MarkscombCase;\012	sub @Uppercase @Markscomb' by @MarkscombCase;\012} ccmp_Other_1;\012\012lookup ccmp_Other_2 {\012	sub @Markscomb' @MarkscombCase by @MarkscombCase;\012	sub @MarkscombCase @Markscomb' by @MarkscombCase;\012} ccmp_Other_2;\012";
+name = ccmp;
 },
 {
-code = "# Localized Forms\012 script latn; # Latin\012 language MOL  exclude_dflt; # Moldavian\012    sub [Scedilla uni0162 scedilla uni0163] by [Scommaaccent uni021A scommaaccent uni021B];\012 language ROM  exclude_dflt; # Romanian\012    sub [Scedilla uni0162 scedilla uni0163] by [Scommaaccent uni021A scommaaccent uni021B];\012 language CAT  exclude_dflt; # Catalan\012    sub l' periodcentered' l by ldot;\012    sub L' periodcentered' L by Ldot;\012";
+automatic = 1;
+code = "script latn;\012language ROM;\012sub Scedilla by Scommaaccent;\012sub scedilla by scommaaccent;\012sub Tcedilla by Tcommaaccent;\012sub tcedilla by tcommaaccent;\012language MOL;\012sub Scedilla by Scommaaccent;\012sub scedilla by scommaaccent;\012sub Tcedilla by Tcommaaccent;\012sub tcedilla by tcommaaccent;\012language CAT;\012sub  l' periodcentered' l by ldot;\012sub  L' periodcentered' L by Ldot;\012\012script cyrl;\012language SRB;\012sub be-cy by be-cy.loclSRB;\012language CHU;\012sub Esdescender-cy by Esdescender-cy.loclCHU;\012sub esdescender-cy by esdescender-cy.loclCHU;\012language BSH;\012sub Ghestroke-cy by Ghestroke-cy.loclBSH;\012sub Zedescender-cy by Zedescender-cy.loclBSH;\012sub Esdescender-cy by Esdescender-cy.loclBSH;\012sub ghestroke-cy by ghestroke-cy.loclBSH;\012sub zedescender-cy by zedescender-cy.loclBSH;\012sub esdescender-cy by esdescender-cy.loclBSH;\012language BGR;\012sub De-cy by De-cy.loclBGR;\012sub El-cy by El-cy.loclBGR;\012sub Ef-cy by Ef-cy.loclBGR;\012sub ve-cy by ve-cy.loclBGR;\012sub ge-cy by ge-cy.loclBGR;\012sub de-cy by de-cy.loclBGR;\012sub zhe-cy by zhe-cy.loclBGR;\012sub ze-cy by ze-cy.loclBGR;\012sub ii-cy by ii-cy.loclBGR;\012sub iishort-cy by iishort-cy.loclBGR;\012sub iigrave-cy by iigrave-cy.loclBGR;\012sub ka-cy by ka-cy.loclBGR;\012sub el-cy by el-cy.loclBGR;\012sub en-cy by en-cy.loclBGR;\012sub pe-cy by pe-cy.loclBGR;\012sub te-cy by te-cy.loclBGR;\012sub che-cy by che-cy.loclBGR;\012sub tse-cy by tse-cy.loclBGR;\012sub sha-cy by sha-cy.loclBGR;\012sub shcha-cy by shcha-cy.loclBGR;\012sub softsign-cy by softsign-cy.loclBGR;\012sub hardsign-cy by hardsign-cy.loclBGR;\012sub iu-cy by iu-cy.loclBGR;\012";
 name = locl;
 },
 {
-code = "# Superscript\012 # DEFAULT\012    sub [n one two three] by [uni207F uni00B9 uni00B2 uni00B3];\012    sub four by uni2074;\012 script latn; # Latin\012    sub [n one two three] by [uni207F uni00B9 uni00B2 uni00B3];\012    sub four by uni2074;\012 language MOL ; # Moldavian\012 language ROM ; # Romanian\012 language CAT ; # Catalan\012";
+automatic = 1;
+code = "sub one by onesuperior;\012sub two by twosuperior;\012sub three by threesuperior;\012sub four by foursuperior;\012";
 name = sups;
 },
 {
-code = "# Fractions\012 # DEFAULT\012    sub one slash two by onehalf;\012    sub one slash four by onequarter;\012    sub one slash eight by oneeighth;\012    sub three slash four by threequarters;\012    sub three slash eight by threeeighths;\012    sub five slash eight by fiveeighths;\012    sub seven slash eight by seveneighths;\012 script latn; # Latin\012    sub one slash two by onehalf;\012    sub one slash four by onequarter;\012    sub one slash eight by oneeighth;\012    sub three slash four by threequarters;\012    sub three slash eight by threeeighths;\012    sub five slash eight by fiveeighths;\012    sub seven slash eight by seveneighths;\012 language MOL ; # Moldavian\012 language ROM ; # Romanian\012 language CAT ; # Catalan\012";
+automatic = 1;
+code = "sub one slash eight by oneeighth;\012sub one slash four by onequarter;\012sub three slash eight by threeeighths;\012sub one slash two by onehalf;\012sub five slash eight by fiveeighths;\012sub three slash four by threequarters;\012sub seven slash eight by seveneighths;\012";
 name = frac;
 },
 {
-code = "# Ordinals\012 # DEFAULT\012lookup ordn9 {\012    sub @ordn1 [A a]' by [ordfeminine ordfeminine];\012    sub @ordn1 [O o]' by [ordmasculine ordmasculine];\012} ordn9;\012lookup ordn10 {\012    sub N o period by uni2116;\012} ordn10;\012 script latn; # Latin\012lookup ordn9;\012lookup ordn10;\012 language MOL ; # Moldavian\012 language ROM ; # Romanian\012 language CAT ; # Catalan\012";
+automatic = 1;
+code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;\012sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;\012sub N o period by numero;\012";
 name = ordn;
 },
 {
-code = "# Standard Ligatures\012 # DEFAULT\012    sub f i by fi;\012    sub f l by fl;\012 script latn; # Latin\012    sub f i by fi;\012    sub f l by fl;\012 language MOL ; # Moldavian\012 language ROM ; # Romanian\012 language CAT ; # Catalan\012";
+automatic = 1;
+code = "sub descendercy by descendercy.case;\012sub verticalbarcy by verticalbarcy.case;\012sub gravecomb by gravecomb.case;\012sub acutecomb by acutecomb.case;\012sub circumflexcomb by circumflexcomb.case;\012sub caroncomb by caroncomb.case;\012sub tildecomb by tildecomb.case;\012";
+name = case;
+},
+{
+automatic = 1;
+code = "sub f i by fi;\012sub f l by fl;\012";
 name = liga;
 }
 );
@@ -702,6 +704,40 @@ alignmentZones = (
 );
 ascender = 770;
 capHeight = 700;
+customParameters = (
+{
+name = typoAscender;
+value = 1049;
+},
+{
+name = typoDescender;
+value = -365;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1049;
+},
+{
+name = winDescent;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1049;
+},
+{
+name = hheaDescender;
+value = -365;
+}
+);
 descender = -230;
 horizontalStems = (
 80,
@@ -726,6 +762,40 @@ alignmentZones = (
 );
 ascender = 775;
 capHeight = 705;
+customParameters = (
+{
+name = typoAscender;
+value = 1049;
+},
+{
+name = typoDescender;
+value = -365;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1049;
+},
+{
+name = winDescent;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1049;
+},
+{
+name = hheaDescender;
+value = -365;
+}
+);
 descender = -230;
 horizontalStems = (
 120,
@@ -50530,7 +50600,7 @@ unicode = 04F8;
 {
 color = 4;
 glyphname = "Gestrokehook-cy";
-lastChange = "2016-08-25 14:05:18 +0000";
+lastChange = "2016-09-01 11:02:35 +0000";
 layers = (
 {
 background = {
@@ -50559,6 +50629,10 @@ nodes = (
 components = (
 {
 name = "Ge-cy";
+},
+{
+name = strokeshortcomb;
+transform = "{1, 0, 0, 1, -60, 340}";
 }
 );
 layerId = UUID0;
@@ -50589,6 +50663,10 @@ width = 560;
 components = (
 {
 name = "Ge-cy";
+},
+{
+name = strokeshortcomb;
+transform = "{1, 0, 0, 1, -80, 320}";
 }
 );
 layerId = "708C77EA-8E11-4C15-94D7-0069457547BC";
@@ -60936,7 +61014,7 @@ unicode = 04F9;
 {
 color = 4;
 glyphname = "gestrokehook-cy";
-lastChange = "2016-08-25 14:05:18 +0000";
+lastChange = "2016-09-01 11:03:05 +0000";
 layers = (
 {
 components = (
@@ -60963,6 +61041,15 @@ nodes = (
 "87 -239 OFFCURVE",
 "109 -240 OFFCURVE",
 "130 -240 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"50 300 LINE",
+"50 230 LINE",
+"369 230 LINE",
+"369 300 LINE"
 );
 }
 );
@@ -60993,6 +61080,15 @@ nodes = (
 "84 -242 OFFCURVE",
 "110 -245 OFFCURVE",
 "135 -245 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"50 180 LINE",
+"380 180 LINE",
+"380 270 LINE",
+"50 270 LINE"
 );
 }
 );
@@ -91910,5 +92006,5 @@ nV = "100";
 };
 };
 versionMajor = 2;
-versionMinor = 3;
+versionMinor = 0;
 }

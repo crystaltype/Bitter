@@ -54,8 +54,11 @@ info@solmatas.com
 
 ChangeLog
 
-29 August (v.2.000) Cyreal 
-— Expanded glyph set to GF Cyrillic Pro
+26 August (v.2.000) Cyreal 
+— Expanded glyph set to GF Cyrillic Plus, Pro, and localised variants
+— Revised Cyrillic spacing
+— Revised Cyrillic glyphs 
+— fixed vertical metrics
 
 7 November (v.1.001) 
 — Initial publication
